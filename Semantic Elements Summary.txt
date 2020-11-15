@@ -1,0 +1,20 @@
+Semantics are a set of elements or tags in HTML5 that are used to 
+segregate portions of a webpage or "section off content" while describing the meaning of the
+element by its name. Some of the examples include <form> which is an
+element for a webpage form, <table> to create a table and <img> for
+image. A more expanded list includes
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+Semantics can be nested within each other, and there is no
+particular order in how those nestings need to be structured.
